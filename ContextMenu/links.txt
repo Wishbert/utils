@@ -1,0 +1,5 @@
+context menu for sublime:
+https://github.com/cbmeeks/sublime-text-2-context-menu-windows
+
+context menu for vscode:
+https://thisdavej.com/right-click-on-windows-folder-and-open-with-visual-studio-code/
